@@ -24,7 +24,7 @@ function Header() {
             className="w-16 h-14 mx-4 my-3"
             src="https://cdn.pixabay.com/photo/2017/02/21/08/49/food-2085075_1280.png"
           ></img>
-          <h1 className="my-5 font-bold text-3xl">Foodies Only</h1>
+          <h1 className="my-5 font-bold text-3xl text-violet-900">DELICIOUS BITES</h1>
         </Link>
 
         <ul className="flex font-medium">
